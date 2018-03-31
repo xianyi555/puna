@@ -1,0 +1,369 @@
+html,body{
+  width: 1080px;
+  margin: 0 auto;
+}
+
+.icon {
+  float: right;
+}
+
+.logo {
+  margin: 20px 0px 10px 30px;
+
+}
+.icon {
+  margin: 35px 50px 0px 0px;
+}
+
+.top1 {
+  position: relative;
+
+}
+.layer82 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.bald_eagle {
+  position: absolute;
+  top: 45px;
+  left: 35px;
+}
+
+.niaochao {
+  position: absolute;
+  bottom: 360px;
+  right: 0px;
+}
+
+.top_title {
+  position: absolute;
+  bottom: 530px;
+  right: 100px;
+  color: #38583d;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 24px;
+}
+
+.top2 {
+  position: relative;
+  bottom: 420px;
+}
+
+.layer104 {
+  position: relative;
+  height: auto;
+  width: 100%;
+}
+
+.blue1 {
+  position: absolute;
+  height: auto;
+  width: 100%;
+  bottom: 430px;
+
+}
+
+.blue2 {
+  position: absolute;
+  height: auto;
+  width: 100%; 
+  bottom: -15px; 
+}
+
+.top3 {
+  font-family: Arial;
+}
+
+.second_bar {
+  text-decoration-line:none;
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  position: absolute;
+  margin-top: -320px;
+  margin-left: -170px;
+}
+
+.about_link {
+  -moz-transform: matrix( 0.99466484536569,-0.10315932044001,0.10315932044001,0.99466484536569,0,0);
+  -webkit-transform: matrix( 0.99466484536569,-0.10315932044001,0.10315932044001,0.99466484536569,0,0);
+  -ms-transform: matrix( 0.99466484536569,-0.10315932044001,0.10315932044001,0.99466484536569,0,0);
+  left: 225px;
+  top: 305px;
+  width: 80px;
+  z-index: 57;
+}
+
+.belief_link {
+  -moz-transform: matrix( 0.99829859241318,0.05830883625886,-0.05830883625886,0.99829859241317,0,0);
+  -webkit-transform: matrix( 0.99829859241318,0.05830883625886,-0.05830883625886,0.99829859241317,0,0);
+  -ms-transform: matrix( 0.99829859241318,0.05830883625886,-0.05830883625886,0.99829859241317,0,0);
+  left: 385px;
+  top: 295px;
+  z-index: 58;
+}
+
+.services_link {
+  -moz-transform: matrix( 0.99376626377775,0.11148368928773,-0.11148368928774,0.99376626377775,0,0);
+  -webkit-transform: matrix( 0.99376626377775,0.11148368928773,-0.11148368928774,0.99376626377775,0,0);
+  -ms-transform: matrix( 0.99376626377775,0.11148368928773,-0.11148368928774,0.99376626377775,0,0);
+  left: 505px;
+  top: 305px;
+  z-index: 59;
+}
+
+.only_us_link {
+  -moz-transform: matrix( 0.99293987296641,0.11861875346442,-0.11861875346443,0.9929398729664,0,0);
+  -webkit-transform: matrix( 0.99293987296641,0.11861875346442,-0.11861875346443,0.9929398729664,0,0);
+  -ms-transform: matrix( 0.99293987296641,0.11861875346442,-0.11861875346443,0.9929398729664,0,0);
+  left: 650px;
+  top: 323px;
+  z-index: 60;
+}
+
+.our_belief {
+  position: relative;
+  bottom: 490px;
+}
+
+.layer82 {
+  position: relative;
+  height: auto;
+  width: 100%;
+}
+
+.our_belief_title {
+  font-size: 25px;
+  font-family: "Arial";
+  color: rgb(56, 88, 61);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 30px;
+  top: 15px;
+  width: 240px;
+  height: 38px;
+  z-index: 50;
+}
+
+.belief_paragraph {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  margin: 30px 40px;
+  line-height: 1.6;
+}
+
+.read_more {
+  font-family: "Times New Roman", Times, serif;
+  color:#4079a5;
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: none;
+  float: right;
+}
+
+.cases_section {
+  background-color: #edf2f7;
+  position: relative;
+  bottom: 515px;  
+}
+
+.Layer_122 {
+  position: relative;
+  width: 100%;
+}
+
+.cases_title {
+  position: absolute;
+  font-size: 25px;
+  font-family: "Arial";
+  color: rgb(56, 88, 61);
+  line-height: 1.2;
+  text-align: left;
+  left: 30px;
+  top: 2px;
+  width: 139px;
+  height: 38px;
+  z-index: 43;
+}
+
+.more_cases {
+  position: absolute;
+  font-family: "Times New Roman", Times, serif;
+  color:#4079a5;
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: none;
+  top: 30px;
+  left: 915px;
+  float: right;
+}
+
+.clients_logos {
+  margin: 20px;
+}
+
+.case_logo {
+  margin: 10px;
+}
+
+.cases_underline {
+  margin: 10px;
+}
+
+.clients_contents {
+  margin: 10px;
+  font-size: 16px;
+  color: black;
+  width: 180px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.digital_marketing_section {
+  position: relative; 
+  top: -510px;
+}
+
+.Layer_122_copy {
+  width: 100%; 
+  height: auto;
+}
+
+.rolling_logos {
+  width: 100%; 
+  height: auto;
+}
+
+.marketing_title {
+  position: absolute;
+  font-size: 25px;
+  font-family: "Arial";
+  color: rgb(56, 88, 61);
+  line-height: 1.2;
+  text-align: left;
+  left: 30px;
+  top: -5px;
+  width: 210px;
+  height: 38px;
+  z-index: 100;
+}
+
+.marketing_p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  margin: 30px 40px;
+  line-height: 1.6;
+}
+
+.footer {
+  position: relative;
+}
+
+.footer_img {
+  position: relative;
+  width: 100%; 
+  height: auto;
+  top: -480px;
+}
+
+.copy_right {
+  position: absolute;
+  font-size: 15px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  top: -500px;
+  margin-left: 720px;
+}
+
+.footer_dot {
+  width: 6px;
+  height: 6px;
+  margin-bottom: 5px;
+}
+
+.footer_city {
+  position: absolute;
+  margin: -530px 0 0 30px;
+  font-size: 18px;
+}
+
+.awards_link {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.99469314426158,0.10288609604318,-0.10288609604319,0.99469314426157,0,0);
+  -webkit-transform: matrix( 0.99469314426158,0.10288609604318,-0.10288609604319,0.99469314426157,0,0);
+  -ms-transform: matrix( 0.99469314426158,0.10288609604318,-0.10288609604319,0.99469314426157,0,0);
+  position: absolute;
+  left: 600px;
+  top: -430px;
+  width: 105.788px;
+  height: 24px;
+  z-index: 10;
+}
+
+.headquarters_link {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  -webkit-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  -ms-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  position: absolute;
+  left: 700px;
+  top: -422px;
+  width: 109.482px;
+  height: 18px;
+  z-index: 12;
+}
+
+.careers_link {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  -webkit-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  -ms-transform: matrix( 0.99889731776215,0.04694836064855,-0.04694836064854,0.99889731776215,0,0);
+  position: absolute;
+  left: 850px;
+  top: -417px;
+  width: 109.482px;
+  height: 18px;
+  z-index: 12;
+}
+
+.contact_us_link {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.99981339804503,0.01931758498488,-0.01931758498487,0.99981339804503,0,0);
+  -webkit-transform: matrix( 0.99981339804503,0.01931758498488,-0.01931758498487,0.99981339804503,0,0);
+  -ms-transform: matrix( 0.99981339804503,0.01931758498488,-0.01931758498487,0.99981339804503,0,0);
+  position: absolute;
+  left: 950px;
+  top: -415px;
+  width: 150.27px;
+  height: 23.984px;
+  z-index: 13;
+}
+
+
